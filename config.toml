@@ -19,10 +19,6 @@ googleAnalytics = ""  # add your tracking id
 
 [menu]
   [[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 1
-  [[menu.main]]
     name = "Resume"
     url = "/resume.pdf"
     # 'pre' and 'post' hooks are available
