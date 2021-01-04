@@ -1,5 +1,5 @@
 title = "Daniel Pearson"
-baseURL = "/"
+baseURL = "https://www.danielpearson.me/"
 theme = "hugo-researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
