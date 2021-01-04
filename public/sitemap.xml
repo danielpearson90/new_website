@@ -3,11 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://www.danielpearson.me/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://www.danielpearson.me/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.danielpearson.me/contact/</loc>
   </url>
   
 </urlset>
