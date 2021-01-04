@@ -1,6 +1,6 @@
-+++
+---
 title: Contact
-+++
+---
 
 * Email: [d.pearson@unsw.edu.au](mailto:d.pearson@unsw.edu.au)
 
