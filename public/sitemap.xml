@@ -4,15 +4,25 @@
   
   <url>
     <loc>https://www.danielpearson.me/</loc>
-    <priority>0</priority>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.danielpearson.me/about/</loc>
+    <loc>https://www.danielpearson.me/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.danielpearson.me/post/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.danielpearson.me/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.danielpearson.me/about/</loc>
   </url>
   
 </urlset>
